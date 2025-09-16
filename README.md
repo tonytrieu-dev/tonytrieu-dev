@@ -13,4 +13,4 @@ I specialize in architecting and building secure, scalable backend systems with 
 
 ---
 
-*   📫 How to reach me: [tonytrieu03@outlook.com](mailto:tonytrieu03@outlook.com) or [LinkedIn](https://linkedin.com/in/tony)
+*   📫 How to reach me: [tonytrieu03@outlook.com](mailto:tonytrieu03@outlook.com) or [LinkedIn](https://linkedin.com/in/tonytrieu03)
