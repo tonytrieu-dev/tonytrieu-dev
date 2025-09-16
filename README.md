@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm Tony Trieu
 
-<!--
-**tonytrieu-dev/tonytrieu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Engineer and Founder** building [**ScheduleBud**](https://schedulebud.app/), a production-ready micro-SaaS that leverages AI to help students manage their academic lives.
 
-Here are some ideas to get you started:
+I specialize in architecting and building secure, scalable backend systems with TypeScript, PostgreSQL, and Supabase, and I have hands-on experience in designing and implementing end-to-end AI pipelines (RAG, embeddings, LLM integration).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🚀 Check out my work:
+
+*   **Live Application:** [**schedulebud.app**](https://schedulebud.app/)
+*   **System Architecture & Technical Deep Dive:** [**github.com/tonytrieu-dev/schedulebud-overview**](https://github.com/tonytrieu-dev/schedulebud-overview)
+
+---
+
+*   📫 How to reach me: [tonytrieu03@outlook.com](mailto:tonytrieu03@outlook.com) or [LinkedIn](https://linkedin.com/in/tony)
