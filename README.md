@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tony Trieu
+### Hey there 👋, I'm Tony
 
 I'm a **Backend Engineer and Founder** building [**ScheduleBud**](https://schedulebud.app/), a production-ready micro-SaaS that leverages AI to help students manage their academic lives.
 
@@ -16,4 +16,4 @@ Previously, I also contributed to launching [**ACM@UCR’s Hydra website**](http
 
 ---
 
-*   📫 How to reach me: [tonytrieu03@outlook.com](mailto:tonytrieu03@outlook.com) or [LinkedIn](https://linkedin.com/in/tonytrieu03)
+*   📫 How to reach me: [tonytrieu.dev@gmail.com](mailto:tonytrieu.dev@gmail.com) or [LinkedIn](https://linkedin.com/in/tonytrieu03)
