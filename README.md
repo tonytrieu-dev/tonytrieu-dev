@@ -37,7 +37,7 @@ My passion lies in leveraging technology like **TypeScript, PostgreSQL, and mode
 #### My Core Technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tstailwind,supabase,postgres,deno,docker,git" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,ts,tailwind,supabase,postgres,deno,docker,git" />
   </a>
 </p>
 
