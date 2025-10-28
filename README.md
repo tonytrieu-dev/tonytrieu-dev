@@ -1,28 +1,59 @@
-### Hey there 👋, I'm Tony
+<div align="center">
+  <h1>
+    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tony Trieu
+  </h1>
+</div>
 
-I'm a **Backend Engineer and Founder** building [**ScheduleBud**](https://schedulebud.app/), a production-ready micro-SaaS that leverages AI to help students manage their academic lives.
+I'm a **Backend Engineer and Founder** architecting secure, scalable systems. I built [**ScheduleBud**](https://schedulebud.app/), a production-ready micro-SaaS that uses AI to automate academic life for students.
 
-I specialize in architecting secure, scalable backend systems and have hands-on experience designing and implementing end-to-end AI pipelines. My goal is to build thoughtful, data-driven applications that solve real-world problems.
-
----
-
-### 🚀 My Work
-
-*   **Live Application:** [**schedulebud.app**](https://schedulebud.app/)
-*   **Technical Deep Dive:** [**System Architecture for ScheduleBud**](https://github.com/tonytrieu-dev/schedulebud-overview)
-*   **Past Contribution:** [**ACM@UCR Hydra Website**](https://github.com/acm-ucr/acm-hydra)
+My passion lies in leveraging technology like **TypeScript, PostgreSQL, and modern AI pipelines (RAG, LLMs)** to build data-driven applications that are both elegant and efficient.
 
 ---
 
-### 🛠️ My Tech Stack
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonytrieu-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytrieu-dev&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+### 🚀 My Work & Stack
+
+#### Check out my projects:
+- **Live Application:** [**schedulebud.app**](https://schedulebud.app/)
+- **Technical Deep Dive:** [**System Architecture for ScheduleBud**](https://github.com/tonytrieu-dev/schedulebud-overview)
+- **Past Contribution:** [**ACM@UCR Hydra Website**](https://github.com/acm-ucr/acm-hydra)
+
+#### My Core Technologies:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,postgres,deno,docker,git" />
+  </a>
+</p>
+
+#### AI & Automation:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,cloudflare,stripe,figma,idea" />
+  </a>
+</p>
 
 ---
 
 ### 📫 Let's Connect
-
 <p align="left">
-<a href="mailto:tonytrieu.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="tonytrieu.dev@gmail.com" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/tonytrieu03" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tonytrieu03" height="40" width="40" /></a>
+  Feel free to reach out for a chat about system design, AI, or anything in between!
+  <br><br>
+  <a href="mailto:tonytrieu.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="tonytrieu.dev@gmail.com" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/tonytrieu03" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tonytrieu03" height="40" width="40" /></a>
 </p>
