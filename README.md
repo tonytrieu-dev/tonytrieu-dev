@@ -11,14 +11,6 @@ I love working with **TypeScript, PostgreSQL, cloud-native tooling, and modern A
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonytrieu-dev&show_icons=true&theme=transparent&hide_border=true" alt="Tony's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytrieu-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
 ### 🚀 My Work & Stack
 
 #### **Featured Projects**
