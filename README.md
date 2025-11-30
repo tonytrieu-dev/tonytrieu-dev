@@ -10,20 +10,11 @@ My passion lies in leveraging technology like **TypeScript, PostgreSQL, and mode
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonytrieu-dev&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytrieu-dev&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonytrieu-dev&show_icons=true&theme=transparent&hide_border=true" alt="Tony's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytrieu-dev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
 ---
 
@@ -37,7 +28,7 @@ My passion lies in leveraging technology like **TypeScript, PostgreSQL, and mode
 #### My Core Technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,ts,tailwind,supabase,postgres,deno,docker,git" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tailwind,supabase,postgres,deno,docker,git" />
   </a>
 </p>
 
