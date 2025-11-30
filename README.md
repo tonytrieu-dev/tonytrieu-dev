@@ -10,9 +10,6 @@ I built **[ScheduleBud](https://schedulebud.app/)** — a production-ready micro
 I love working with **TypeScript, PostgreSQL, cloud-native tooling, and modern AI pipelines (RAG, LLMs)** to create elegant, data-driven applications.
 
 ---
-
-### 🚀 My Work & Stack
-
 #### **Featured Projects**
 - **Live App:** → **[schedulebud.app](https://schedulebud.app/)**
 - **Architecture Overview:** → **[ScheduleBud System Design](https://github.com/tonytrieu-dev/schedulebud-overview)**
