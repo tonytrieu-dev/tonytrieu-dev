@@ -4,9 +4,10 @@
   </h1>
 </div>
 
-I'm a **Backend Engineer and Founder** architecting secure, scalable systems. I built [**ScheduleBud**](https://schedulebud.app/), a production-ready micro-SaaS that uses AI to automate academic life for students.
+I'm a **Backend Engineer & Founder** focused on building secure, scalable systems.  
+I built **[ScheduleBud](https://schedulebud.app/)** — a production-ready micro-SaaS that uses AI to automate academic planning for students.
 
-My passion lies in leveraging technology like **TypeScript, PostgreSQL, and modern AI pipelines (RAG, LLMs)** to build data-driven applications that are both elegant and efficient.
+I love working with **TypeScript, PostgreSQL, cloud-native tooling, and modern AI pipelines (RAG, LLMs)** to create elegant, data-driven applications.
 
 ---
 
@@ -20,19 +21,21 @@ My passion lies in leveraging technology like **TypeScript, PostgreSQL, and mode
 
 ### 🚀 My Work & Stack
 
-#### Check out my projects:
-- **Live Application:** [**schedulebud.app**](https://schedulebud.app/)
-- **Technical Deep Dive:** [**System Architecture for ScheduleBud**](https://github.com/tonytrieu-dev/schedulebud-overview)
-- **Past Contribution:** [**ACM@UCR Hydra Website**](https://github.com/acm-ucr/acm-hydra)
+#### **Featured Projects**
+- **Live App:** → **[schedulebud.app](https://schedulebud.app/)**
+- **Architecture Overview:** → **[ScheduleBud System Design](https://github.com/tonytrieu-dev/schedulebud-overview)**
+- **Past Contribution:** → **[ACM@UCR Hydra Website](https://github.com/acm-ucr/acm-hydra)**
 
-#### My Core Technologies:
+---
+
+### 🧰 Core Technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tailwind,supabase,postgres,deno,docker,git" />
   </a>
 </p>
 
-#### AI & Automation:
+### 🤖 AI & Automation
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,gcp" />
@@ -41,10 +44,10 @@ My passion lies in leveraging technology like **TypeScript, PostgreSQL, and mode
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect
 <p align="left">
-  Feel free to reach out for a chat about system design, AI, or anything in between!
+  Always open to chatting about backend engineering, AI, system design, or anything you're working on!
   <br><br>
-  <a href="mailto:tonytrieu.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="tonytrieu.dev@gmail.com" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/tonytrieu03" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="tonytrieu03" height="40" width="40" /></a>
+  <a href="mailto:tonytrieu.dev@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/tonytrieu03" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
 </p>
