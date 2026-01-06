@@ -35,7 +35,7 @@ I love working with **TypeScript, PostgreSQL, cloud-native tooling, and modern A
 
 ### 📫 Let’s Connect
 <p align="left">
-  Always open to chatting about backend engineering, AI, system design, or anything you're working on!
+  Always open to chatting about backend engineering, AI, system design, or even PC stuff! 
   <br><br>
   <a href="mailto:tonytrieu.dev@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/tonytrieu03" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
