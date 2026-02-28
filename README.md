@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-I'm a **Backend Engineer & Founder** focused on building secure, scalable systems.  
+I'm a **backend engineer** focused on building secure, scalable systems.  
 I built **[ScheduleBud](https://schedulebud.app/)** — a production-ready micro-SaaS that uses AI to automate academic planning for students.
 
 I love working with **TypeScript, PostgreSQL, cloud-native tooling, and modern AI pipelines (RAG, LLMs)** to create elegant, data-driven applications.
