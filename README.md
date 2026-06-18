@@ -6,7 +6,7 @@
 
 I'm a **backend engineer** focused on building secure, scalable systems.  I built **[ScheduleBud](https://schedulebud.app/)**, a production-ready micro-SaaS that uses AI to automate academic planning for college students.
 
-I love working with **TypeScript, PostgreSQL, cloud-native tooling, and modern AI pipelines (RAG, LLMs)** to create elegant, data-driven applications.
+I love working with **TypeScript, Postgres, cloud-native tooling, and modern AI pipelines** to create elegant, data-driven applications.
 
 ---
 #### **Featured Projects**
