@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-I'm an **applied AI engineer** focused on building secure, scalable systems.  I built **[ScheduleBud](https://schedulebud.app/)**, a production-ready micro-SaaS that uses AI to automate academic scheduling for college students.
+I'm an **applied AI engineer** focused on building secure, scalable systems.  I built **[ScheduleBud](https://schedulebud.onrender.com)**, a production-ready micro-SaaS that uses AI to automate academic scheduling for college students.
 
 ---
 #### **Featured Projects**
