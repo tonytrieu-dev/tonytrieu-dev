@@ -8,7 +8,7 @@ I'm an **applied AI engineer** focused on building secure, scalable systems.  I 
 
 ---
 #### **Featured Projects**
-- **Live App:** → **[schedulebud.app](https://schedulebud.app/)**
+- **Live App:** → **[schedulebud.onrender.com](https://schedulebud.onrender.com/)**
 - **Architecture Overview:** → **[ScheduleBud System Design](https://github.com/tonytrieu-dev/schedulebud-overview)**
 - **Past Contribution:** → **[ACM@UCR Hydra Website](https://github.com/acm-ucr/acm-hydra)**
 
