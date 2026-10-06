@@ -4,12 +4,10 @@
   </h1>
 </div>
 
-I'm an **applied AI engineer** focused on building secure, scalable systems.  I built **[ScheduleBud](https://schedulebud.onrender.com)**, a production-ready micro-SaaS that uses AI to automate academic scheduling for college students.
+I'm an **applied AI engineer** focused on building secure, scalable systems.
 
 ---
 #### **Featured Projects**
-- **Live App:** → **[schedulebud.cc](https://schedulebud.cc)**
-- **Architecture Overview:** → **[ScheduleBud System Design](https://github.com/tonytrieu-dev/schedulebud-overview)**
 - **Past Contribution:** → **[SeriousDB](https://github.com/danieldeer/seriousdb)**
 
 ---
