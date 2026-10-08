@@ -6,10 +6,6 @@
 
 I'm an **applied AI engineer** focused on building secure, scalable systems.
 
-<div align="center">
-  <a href="https://tonytrieu-dev.github.io/tonys-portfolio/"><strong>🌐 View my portfolio →</strong></a>
-</div>
-
 ---
 #### **Featured Projects**
 - **Portfolio:** → **[tonytrieu-dev.github.io/tonys-portfolio](https://tonytrieu-dev.github.io/tonys-portfolio/)**
