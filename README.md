@@ -14,14 +14,14 @@ I'm an **applied AI engineer** focused on building secure, scalable systems.
 
 ---
 
-### 🧰 Core Technologies
+### Core Technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tailwind,supabase,postgres,deno,docker,git" />
   </a>
 </p>
 
-### 🤖 AI & Automation
+### AI & Automation
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,gcp" />
@@ -30,7 +30,7 @@ I'm an **applied AI engineer** focused on building secure, scalable systems.
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect 📫
 <p align="left">
   Always open to chatting about backend engineering, AI, system design, or even PC stuff! 
   <br><br>
