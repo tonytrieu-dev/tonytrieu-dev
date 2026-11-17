@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-I'm an **applied AI engineer** focused on building secure, scalable systems.
+I'm an **applied AI engineer** focused on building secure and scalable systems.
 
 ---
 #### **Featured Projects**
