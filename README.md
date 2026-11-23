@@ -10,7 +10,7 @@ I'm an **applied AI engineer** focused on building secure and scalable systems.
 #### **Featured Projects**
 - **Portfolio:** → **[tonytrieu-dev.github.io/tonys-portfolio](https://tonytrieu-dev.github.io/tonys-portfolio/)**
 - **ScheduleBud System Design** -> **[https://github.com/ScheduleBud/schedulebud-overview](https://github.com/ScheduleBud/schedulebud-overview)**
-- **Past Open Source Contribution:** → **[SeriousDB](https://github.com/danieldeer/seriousdb)**
+- **Past Open Source Contribution:** → **[SeriousDB]([https://github.com/danieldeer/seriousdb](https://github.com/danieldeer/seriousdb/commits?author=tonytrieu-dev))**
 
 ---
 
